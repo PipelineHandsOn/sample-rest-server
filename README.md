@@ -17,7 +17,7 @@ The code in this repository is not sponsored or supported by Cloudbees, Inc.
 * Author: [Craig Vitter](https://github.com/cvitter)
 * Contributor: [David Schott](https://github.com/schottsfired)
  
-# Questions, Feedback, Pull Requests Etc.
+# Questions, Feedback, Pull Requests Etc..
 
 If you have any questions, feedback, suggestions, etc. please submit them via issues or, even better, submit a Pull Request!
  
